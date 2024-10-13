@@ -27,7 +27,7 @@ Key features:
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/personal-therapist-chatbot.git
+    git clone https://github.com/parthdave333/personal-therapist-chatbot.git
     ```
 
 2. Install Python dependencies (if any) listed in `requirements.txt` (if required):
