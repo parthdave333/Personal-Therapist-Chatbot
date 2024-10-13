@@ -30,7 +30,7 @@ Key features:
     git clone https://github.com/parthdave333/personal-therapist-chatbot.git
     ```
 
-2. Install Python dependencies (if any) listed in `requirements.txt` (if required):
+2. Install Python dependencies listed in `requirements.txt`:
     ```bash
     pip install -r requirements.txt
     ```
