@@ -39,13 +39,11 @@ Update the project with your API key by adding it to main.py or an environment v
 
 
 ## Example in main.py:
-    ```python
-     import openai
-     openai.api_key = "your_openai_api_key_here"
+    import openai
+    openai.api_key = "your_openai_api_key_here"
 
 ## Run the backend server to start the chatbot:
-    ```bash
-       python main.py
+    python main.py
    Open home.html in your browser to start chatting with the bot.
 
 ## Contribution
